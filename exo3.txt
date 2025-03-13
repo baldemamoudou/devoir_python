@@ -1,0 +1,5 @@
+1)Faux car python est un langage a faible typage 
+2)Vrai
+3)Vrai
+4)Faux car pour cela on doit preceder l'attribut de (__) 
+5)faux 
